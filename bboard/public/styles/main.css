@@ -1,0 +1,4 @@
+h1 {
+    background: url("../images/favicon.png") left / auto 100% no-repeat,
+    url("../images/favicon.png") right / auto 100% no-repeat;
+}
